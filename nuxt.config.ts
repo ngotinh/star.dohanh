@@ -12,7 +12,7 @@ export default defineNuxtConfig({
     modules: ["@nuxtjs/tailwindcss"],
     runtimeConfig: {
       public: {
-        WP_URL: 'https://wp.hauca.win',
+        WP_URL: 'https://travel.publishonline24.com',
       },
     },
   });
